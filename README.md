@@ -1,0 +1,2 @@
+# Netfilx-recommendation-system
+In this project i tried to build a recommendation system just like netflix.  To personalize the experience we will require the data of user and a user id so that we can add a separate feature of recommendation as per the shows/movies they have already rated.  The recommendation that we are giving will be based on the similarity in genre of movies. It can also be based on the cast of movie or the director of movie.  {{Country states that the content ws taken from which country}}
